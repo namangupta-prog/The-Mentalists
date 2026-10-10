@@ -156,6 +156,4 @@ Our focus is to demonstrate the working prototype, explain how it addresses the 
 
 **Built by The Mentalists**
 
-**Team Leader:** Naman Gupta
-
 **Live Website:** https://fast-skill-proof-pro.base44.app
