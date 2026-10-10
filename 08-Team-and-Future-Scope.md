@@ -3,11 +3,11 @@
 ## 1. Project Team
 SKILLCHECK is being developed as a hackathon project.
 
-- **Team Member 1:** Add name
-- **Team Member 2:** Add name
-- **Team Member 3:** Add name
-- **Team Member 4:** Add name
-- **Team Member 5:** Add name
+- **Team Member 1:** Naman Gupta
+- **Team Member 2:** Rudra Sawarkar
+- **Team Member 3:** Amrutanshu Satpathy
+- **Team Member 4:** Sulaksh Parode
+- **Team Member 5:** Harsh Sharma
 
 Replace these placeholders with the names of your registered team members.
 
